@@ -1,7 +1,6 @@
 {
   "name": "nuxt-alias-path",
   "version": "1.0.0",
-  "description": "Cross-platform builds a path for nuxt.options.alias in modules. Passing a path straight away causes issues on Windows.",
   "repository": "dword-design/nuxt-alias-path",
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
