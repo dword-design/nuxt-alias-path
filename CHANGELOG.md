@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dword-design/nuxt-alias-path/compare/v1.0.0...v2.0.0) (2024-02-13)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#3](https://github.com/dword-design/nuxt-alias-path/issues/3)) ([0723b92](https://github.com/dword-design/nuxt-alias-path/commit/0723b92e6ada1fa8e229f4afcfc5395c842ef4de))
+
+
+### BREAKING CHANGES
+
+* node.js >= 18
+
 # 1.0.0 (2023-05-19)
 
 
