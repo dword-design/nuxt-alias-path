@@ -30,7 +30,7 @@
     "axios": "^1.4.0",
     "execa": "^8.0.1",
     "nuxt": "^3.5.0",
-    "output-files": "^2.0.28",
+    "output-files": "^3.0.0",
     "port-ready": "^0.1.0"
   },
   "engines": {
